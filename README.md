@@ -2,7 +2,7 @@
 
 Here you can see some projects I've done along my bioinformatics journey:
 
-- 🧬 [RNA seq analysis](https://github.com/Antonin-w/Heart_Failure_Prediction_with_R) on cluster (Bash, DESeq2)
+- 🧬 [RNA seq analysis](https://github.com/Antonin-w/RNA_seq_analysis_LF) on cluster (Bash, DESeq2)
 - 🛠️ [Creation of pipeline for CHIP-seq analysis](https://github.com/Antonin-w/CHIP_seq_analysis_Nextflow) running on cluster (Nextflow, Bash)
 - 📊 [Visual representation of dataset](https://github.com/Antonin-w/Heart_Failure_Prediction_with_R) with ggplot2
 - 🤖 [Machine learning](https://github.com/Antonin-w/Heart_Failure_Prediction_with_R) (Linear regression, Knn, Random Forest)
