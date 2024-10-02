@@ -7,6 +7,7 @@ Here you can see some projects I've done along my bioinformatics journey:
 - 📊 [Visual representation of dataset](https://github.com/Antonin-w/Heart_Failure_Prediction_with_R) with ggplot2
 - 🤖 [Machine learning](https://github.com/Antonin-w/Heart_Failure_Prediction_with_R) (Linear regression, Knn, Random Forest)
 - 🐍 [Global and Local alignment algorithms implemented](https://github.com/Antonin-w/Alignement-sequence-Algo)
+- 📈 [Modeling molecular motors](https://github.com/Antonin-w/Monte_carlo_modeling_kinesin_dynein) movements on a microtubule using Monte Carlo algorithm
 
 Moreover, besides these, I've also fully developped a variant calling pipeline with Nextlow, using Docker and AWS. 
 
